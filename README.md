@@ -4,7 +4,7 @@ It was made entirely out of HTML and CSS Without any JavaScript, <br>
 A number of CSS elements were utilised while taking responsive design, colour theory, typography, and UX into account.
 
 ## Installation
-Just download the files and run index.htm
+Just download the files and run index.html
 
 ## Usage
 Use this template only for your own personal learning journey, It can help you practise and improve your HTML and CSS abilities. ; it cannot be used for business purposes without the owner's knowledge.
